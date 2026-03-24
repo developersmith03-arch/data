@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 25 25"><path d="M18 7c3.8 0 6.9-3 7-6.8V0v25H0c3.8 0 6.9-3 7-6.8V16c0-5 4-9 9-9z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#188b67"/><path d="M18.4 12.3c.3.3.3.9 0 1.2l-3.7 3.7c-.2.2-.5.3-.8.2-.3.1-.6 0-.8-.2l-1.6-1.6c-.3-.3-.3-.9 0-1.2s.9-.3 1.2 0l1.2 1.2 3.3-3.3c.3-.4.9-.4 1.2 0" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25 25" style="enable-background:new 0 0 25 25;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#188b67;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="Symbols">
+	<g id="btn_x2F_bg_x2F_複選" transform="translate(-55.000000, -15.000000)">
+		<g id="Group" transform="translate(55.000000, 15.000000)">
+			<path id="Combined-Shape" class="st0" d="M18,7c3.8,0,6.9-3,7-6.8V0v25H0c3.8,0,6.9-3,7-6.8V18v-2c0-5,4-9,9-9H18z"/>
+			<path id="Combined-Shape_00000174601628442181083500000008028926402808824719_" class="st1" d="M18.4,12.3c0.3,0.3,0.3,0.9,0,1.2
+				l-3.7,3.7c-0.2,0.2-0.5,0.3-0.8,0.2c-0.3,0.1-0.6,0-0.8-0.2l-1.6-1.6c-0.3-0.3-0.3-0.9,0-1.2s0.9-0.3,1.2,0l1.2,1.2l3.3-3.3
+				C17.5,11.9,18.1,11.9,18.4,12.3z"/>
+		</g>
+	</g>
+</g>
+</svg>
