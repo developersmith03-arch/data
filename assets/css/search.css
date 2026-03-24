@@ -1,0 +1,66 @@
+s-app .tab-indicator[data-v-aa107110] {
+  width: var(--66282c5f);
+  transform: var(--30d11c5e);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+s-app .s-sports-mode-filter[data-v-aa107110] {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
+}
+s-app .s-sports-eventType-tabs[data-v-aa107110] {
+  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+  --tw-gradient-from: var(--color-header-background-from) var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(255 255 255 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  --tw-gradient-to: var(--color-header-background-to) var(--tw-gradient-to-position);
+}
+s-app .s-menu-active[data-is-selected=true][data-v-aa107110] {
+  color: var(--color-main-menu-text-active);
+}
+s-app .s-event-count[data-v-aa107110] {
+  background-color: var(--color-main-menu-number-bg);
+  color: var(--color-main-menu-num);
+}
+s-app .s-event-count[data-is-selected=true][data-v-aa107110] {
+  background-color: var(--color-unread-number-bg);
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+s-app .s-event-type-icon[data-v-aa107110] {
+  color: var(--color-main-tab-text-active);
+}
+s-app .s-event-type-icon[data-is-selected=true][data-v-aa107110] {
+  color: var(--color-main-menu-text-active);
+}
+s-app .s-event-type-context[data-v-aa107110] {
+  color: var(--color-main-tab-text-active);
+}
+s-app .s-event-type-context[data-is-selected=true][data-v-aa107110] {
+  color: var(--color-main-menu-text-active);
+}
+
+s-app .s-search-mask[data-v-6e371132] {
+  z-index: var(--115eec0f);
+}
+s-app .s-search-modal[data-v-6e371132] {
+  height: calc(var(--23b2bef2));
+  z-index: var(--115eec0f);
+}
+
+
+s-app .s-modal-mask[data-v-d56e9d5a] {
+  z-index: var(--622e6b4e);
+}
+s-app .s-modal-container[data-v-d56e9d5a] {
+  max-height: calc(var(--302f011b));
+  z-index: var(--622e6b4e);
+}
+s-app .s-modal-container.s-full-screen[data-v-d56e9d5a] {
+  height: calc(var(--302f011b));
+}
+s-app .s-modal-content[data-v-d56e9d5a] {
+  min-height: 300px;
+  max-height: calc(var(--183a105a));
+}
+s-app .s-modal-content.s-full-screen[data-v-d56e9d5a] {
+  height: calc(var(--183a105a));
+}

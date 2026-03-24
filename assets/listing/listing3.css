@@ -1,0 +1,25 @@
+s-app .s-default:not(.is-desktop):not(.is-mobile) .isDefaultDesktop.s-event-grid[data-v-dc52236b] {
+  grid-template-columns: 5.4613333333rem 100.0106666667rem 4.096rem;
+}
+s-app .s-default:not(.is-desktop):not(.is-mobile) .isDefaultMobile.s-event-grid[data-v-dc52236b] {
+  grid-template-columns: 4.2666666667vw 78.1333333333vw 3.2vw;
+}
+s-app .is-mobile .s-event-grid[data-v-dc52236b],
+s-app .s-default .s-event-grid[data-v-dc52236b] {
+  grid-template-columns: 4.2666666667vw 78.1333333333vw 3.2vw;
+}
+s-app .is-desktop .s-event-grid[data-v-dc52236b] {
+  grid-template-columns: 5.4613333333rem 100.0106666667rem 4.096rem;
+}s-app .s-default:not(.is-desktop):not(.is-mobile) .isDefaultDesktop.s-event-grid[data-v-1483f0a5] {
+  grid-template-columns: 5.4613333333rem 100.0106666667rem 4.096rem;
+}
+s-app .s-default:not(.is-desktop):not(.is-mobile) .isDefaultMobile.s-event-grid[data-v-089ef46b] {
+  grid-template-columns: 4.2666666667vw 78.1333333333vw 3.2vw;
+}
+s-app .is-mobile .s-event-grid[data-v-1483f0a5],
+s-app .s-default .s-event-grid[data-v-1483f0a5] {
+  grid-template-columns: 4.2666666667vw 78.6666666667vw 3.2vw;
+}
+s-app .is-desktop .s-event-grid[data-v-1483f0a5] {
+  grid-template-columns: 5.4613333333rem 100.6933333333rem 4.096rem;
+}

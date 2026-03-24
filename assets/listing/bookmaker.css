@@ -1,0 +1,81 @@
+s-app .back-active[data-v-21a9d2fa] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(55 157 230 / var(--tw-bg-opacity))
+}
+s-app .lay-active[data-v-21a9d2fa] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(246 105 135 / var(--tw-bg-opacity))
+}
+s-app .s-bg-bookmaker-market[data-v-635307b5] {
+  background: linear-gradient(90deg, rgb(124, 195, 245) 0%, rgb(196, 171, 238) 54%, rgb(250, 169, 186) 100%);
+}
+
+s-app .cash-out-btn {
+  background-color: var(--color-button-cashout);
+}
+s-app .cash-out-btn-filter {
+  background-color: rgba(237, 237, 237, 0.15);
+}
+s-app .cash-out-dot {
+  background-color: var(--color-cashout-dot-border);
+}
+s-app .cash-out-tooltip {
+  border-color: var(--color-cashout-dot-border);
+  background-color: var(--color-primaryLight-100);
+  color: var(--color-market-name);
+  color: var(--0dbafada);
+}
+s-app .cash-out-mobile .vue-slider-dot-tooltip-top {
+  top: -7px;
+}
+s-app .cash-out-desktop .vue-slider-dot .vue-slider-dot-tooltip {
+  top: -3.584rem;
+}s-app .back-active[data-v-b828fe26] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(55 157 230 / var(--tw-bg-opacity))
+}
+s-app .lay-active[data-v-b828fe26] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(246 105 135 / var(--tw-bg-opacity))
+}
+
+s-app .cash-out-btn {
+  background-color: var(--color-button-cashout);
+}
+s-app .cash-out-btn-filter {
+  background-color: rgba(237, 237, 237, 0.15);
+}
+s-app .cash-out-dot {
+  background-color: var(--color-cashout-dot-border);
+}
+s-app .cash-out-tooltip {
+  border-color: var(--color-cashout-dot-border);
+  background-color: var(--color-primaryLight-100);
+  color: var(--color-market-name);
+  color: var(--0dbafada);
+}
+s-app .cash-out-mobile .vue-slider-dot-tooltip-top {
+  top: -7px;
+}
+s-app .cash-out-desktop .vue-slider-dot .vue-slider-dot-tooltip {
+  top: -3.584rem;
+}s-app .back-active[data-v-b828fe26] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(55 157 230 / var(--tw-bg-opacity))
+}
+s-app .lay-active[data-v-b828fe26] {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(246 105 135 / var(--tw-bg-opacity))
+}

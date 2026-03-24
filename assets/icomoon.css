@@ -1,0 +1,1600 @@
+@font-face {
+    font-display: block;
+    font-family: icomoon;
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/1.6.4_2-icomoon.8b58f7a5.eot);
+    src: url(fonts/1.6.4_2-icomoon.8b58f7a5.eot);
+    src: url(fonts/1.6.4_2-icomoon.8b58f7a5.eot) format("embedded-opentype"), url(fonts/1.6.4_2-icomoon.1f8c38fd.ttf) format("truetype"), url(fonts/1.6.4_2-icomoon.bc791575.woff) format("woff"), url(fonts/1.6.4_2-icomoon.2c1dab02.svg) format("svg")
+}
+[class*=" icon-"],[class^=icon-] {
+    font-family: icomoon!important;
+    speak: never;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    /* line-height: 1; */
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-a-z:before {
+    content: ""
+}
+
+.icon-active-log:before {
+    content: ""
+}
+
+.icon-all:before {
+    content: ""
+}
+
+.icon-arrow-double:before {
+    content: ""
+}
+
+.icon-arrow-down:before {
+    content: ""
+}
+
+.icon-arrow-down-sencodary:before {
+    content: ""
+}
+
+.icon-arrow-left:before {
+    content: ""
+}
+
+.icon-backspace:before {
+    content: ""
+}
+
+.icon-calendar:before {
+    content: ""
+}
+
+.icon-cash-out:before {
+    content: ""
+}
+
+.icon-catalog:before {
+    content: ""
+}
+
+.icon-chat:before {
+    content: ""
+}
+
+.icon-check:before {
+    content: ""
+}
+
+.icon-check-circle:before {
+    content: ""
+}
+
+.icon-clock:before {
+    content: ""
+}
+
+.icon-clone:before {
+    content: ""
+}
+
+.icon-close:before {
+    content: ""
+}
+
+.icon-cricket:before {
+    content: ""
+}
+
+.icon-del:before {
+    content: ""
+}
+
+.icon-disregional:before {
+    content: ""
+}
+
+.icon-download:before {
+    content: ""
+}
+
+.icon-edit:before {
+    content: ""
+}
+
+.icon-editing:before {
+    content: ""
+}
+
+.icon-email:before {
+    content: ""
+}
+
+.icon-empty:before {
+    content: ""
+}
+
+.icon-exchange:before {
+    content: ""
+}
+
+.icon-expend:before {
+    content: ""
+}
+
+.icon-facebook:before {
+    content: ""
+}
+
+.icon-flag-bangladesh .path1:before {
+    color: #006a4d;
+    content: ""
+}
+
+.icon-flag-bangladesh .path2:before {
+    color: #f42a41;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-fullscreen:before {
+    content: ""
+}
+
+.icon-funds:before {
+    content: ""
+}
+
+.icon-game-hall-egame:before {
+    content: ""
+}
+
+.icon-game-hall-fishing:before {
+    content: ""
+}
+
+.icon-game-hall-live:before {
+    content: ""
+}
+
+.icon-game-hall-slot:before {
+    content: ""
+}
+
+.icon-game-hall-sports:before {
+    content: ""
+}
+
+.icon-game-hall-table:before {
+    content: ""
+}
+
+.icon-graph:before {
+    content: ""
+}
+
+.icon-h2h:before {
+    content: ""
+}
+
+.icon-h2h-soild:before {
+    content: ""
+}
+
+.icon-history:before {
+    content: ""
+}
+
+.icon-home:before {
+    content: ""
+}
+
+.icon-in-play .path1:before {
+    color: #52bf04;
+    content: ""
+}
+
+.icon-in-play .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path4:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path5:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path6:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path7:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path8:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-info-circle:before {
+    content: ""
+}
+
+.icon-inplay-b:before {
+    content: ""
+}
+
+.icon-instagram:before {
+    content: ""
+}
+
+.icon-latest:before {
+    content: ""
+}
+
+.icon-list:before {
+    content: ""
+}
+
+.icon-lock:before {
+    content: ""
+}
+
+.icon-login:before {
+    content: ""
+}
+
+.icon-logout:before {
+    content: ""
+}
+
+.icon-menu:before {
+    content: ""
+}
+
+.icon-mic:before {
+    content: ""
+}
+
+.icon-min-max:before {
+    content: ""
+}
+
+.icon-minus:before {
+    content: ""
+}
+
+.icon-notice:before {
+    content: ""
+}
+
+.icon-parlay:before {
+    content: ""
+}
+
+.icon-parlay-list:before {
+    content: ""
+}
+
+.icon-parlay-up:before {
+    content: ""
+}
+
+.icon-payment-transfer-log:before {
+    content: ""
+}
+
+.icon-pdf:before {
+    content: ""
+}
+
+.icon-phone:before {
+    content: ""
+}
+
+.icon-phone-outgoing:before {
+    content: ""
+}
+
+.icon-play-film:before {
+    content: ""
+}
+
+.icon-plus:before {
+    content: ""
+}
+
+.icon-poker:before {
+    content: ""
+}
+
+.icon-profile:before {
+    content: ""
+}
+
+.icon-profit-loss:before {
+    content: ""
+}
+
+.icon-recommend:before {
+    content: ""
+}
+
+.icon-refresh:before {
+    content: ""
+}
+
+.icon-search:before {
+    content: ""
+}
+
+.icon-setting:before {
+    content: ""
+}
+
+.icon-shield:before {
+    content: ""
+}
+
+.icon-sign-up:before {
+    content: ""
+}
+
+.icon-skype:before {
+    content: ""
+}
+
+.icon-soccer:before {
+    content: ""
+}
+
+.icon-sphere:before {
+    content: ""
+}
+
+.icon-sport:before {
+    content: ""
+}
+
+.icon-star:before {
+    content: ""
+}
+
+.icon-star-disable:before {
+    content: ""
+}
+
+.icon-star-solid:before {
+    content: ""
+}
+
+.icon-telegram:before {
+    content: ""
+}
+
+.icon-tennis:before {
+    content: ""
+}
+
+.icon-today:before {
+    content: ""
+}
+
+.icon-toggle:before {
+    content: ""
+}
+
+.icon-tomorrow:before {
+    content: ""
+}
+
+.icon-top:before {
+    content: ""
+}
+
+.icon-top-soild:before {
+    content: ""
+}
+
+.icon-transfer:before {
+    content: ""
+}
+
+.icon-transfer-log:before {
+    content: ""
+}
+
+.icon-triangle:before {
+    content: ""
+}
+
+.icon-trophy:before {
+    content: ""
+}
+
+.icon-trophy-disable:before {
+    content: ""
+}
+
+.icon-twitter:before {
+    content: ""
+}
+
+.icon-um:before {
+    content: ""
+}
+
+.icon-user:before {
+    content: ""
+}
+
+.icon-visibility-off:before {
+    content: ""
+}
+
+.icon-visibility-on:before {
+    content: ""
+}
+
+.icon-volume:before {
+    content: ""
+}
+
+.icon-volume-off:before {
+    content: ""
+}
+
+.icon-vs:before {
+    content: ""
+}
+
+.icon-wallet:before {
+    content: ""
+}
+
+.icon-whatsapp:before {
+    content: ""
+}
+
+.icon-whatsapp-line:before {
+    content: ""
+}
+
+.icon-wifi:before {
+    content: ""
+}
+
+.icon-youtube .path1:before {
+    color: #010201;
+    content: ""
+}
+
+.icon-youtube .path2:before {
+    color: #000;
+    content: "";
+    margin-left: -1em
+}
+/* [class*=" icon-"],[class^=icon-] {
+    font-family: icomoon!important;
+    speak: never;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-a-z:before {
+    content: ""
+}
+
+.icon-active-log:before {
+    content: ""
+}
+
+.icon-all:before {
+    content: ""
+}
+
+.icon-arrow-double:before {
+    content: ""
+}
+
+.icon-arrow-down:before {
+    content: ""
+}
+
+.icon-arrow-down-sencodary:before {
+    content: ""
+}
+
+.icon-arrow-left:before {
+    content: ""
+}
+
+.icon-backspace:before {
+    content: ""
+}
+
+.icon-calendar:before {
+    content: ""
+}
+
+.icon-cash-out:before {
+    content: ""
+}
+
+.icon-catalog:before {
+    content: ""
+}
+
+.icon-chat:before {
+    content: ""
+}
+
+.icon-check:before {
+    content: ""
+}
+
+.icon-check-circle:before {
+    content: ""
+}
+
+.icon-clock:before {
+    content: ""
+}
+
+.icon-clone:before {
+    content: ""
+}
+
+.icon-close:before {
+    content: ""
+}
+
+.icon-cricket:before {
+    content: ""
+}
+
+.icon-del:before {
+    content: ""
+}
+
+.icon-disregional:before {
+    content: ""
+}
+
+.icon-download:before {
+    content: ""
+}
+
+.icon-edit:before {
+    content: ""
+}
+
+.icon-editing:before {
+    content: ""
+}
+
+.icon-email:before {
+    content: ""
+}
+
+.icon-empty:before {
+    content: ""
+}
+
+.icon-exchange:before {
+    content: ""
+}
+
+.icon-expend:before {
+    content: ""
+}
+
+.icon-facebook:before {
+    content: ""
+}
+
+.icon-flag-bangladesh .path1:before {
+    color: #006a4d;
+    content: ""
+}
+
+.icon-flag-bangladesh .path2:before {
+    color: #f42a41;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-fullscreen:before {
+    content: ""
+}
+
+.icon-funds:before {
+    content: ""
+}
+
+.icon-game-hall-egame:before {
+    content: ""
+}
+
+.icon-game-hall-fishing:before {
+    content: ""
+}
+.icon-awc:before {
+    content: ""
+}
+
+.icon-game-hall-live:before {
+    content: ""
+}
+
+.icon-game-hall-slot:before {
+    content: ""
+}
+
+.icon-game-hall-sports:before {
+    content: ""
+}
+
+.icon-game-hall-table:before {
+    content: ""
+}
+
+.icon-graph:before {
+    content: ""
+}
+
+.icon-h2h:before {
+    content: ""
+}
+
+.icon-h2h-soild:before {
+    content: ""
+}
+
+.icon-history:before {
+    content: ""
+}
+
+.icon-home:before {
+    content: ""
+}
+
+.icon-in-play .path1:before {
+    color: #52bf04;
+    content: ""
+}
+
+.icon-in-play .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path4:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path5:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path6:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path7:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path8:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-info-circle:before {
+    content: ""
+}
+
+.icon-inplay-b:before {
+    content: ""
+}
+
+.icon-instagram:before {
+    content: ""
+}
+
+.icon-latest:before {
+    content: ""
+}
+
+.icon-list:before {
+    content: ""
+}
+
+.icon-lock:before {
+    content: ""
+}
+
+.icon-login:before {
+    content: ""
+}
+
+.icon-logout:before {
+    content: ""
+}
+
+.icon-menu:before {
+    content: ""
+}
+
+.icon-mic:before {
+    content: ""
+}
+
+.icon-min-max:before {
+    content: ""
+}
+
+.icon-minus:before {
+    content: ""
+}
+
+.icon-notice:before {
+    content: ""
+}
+
+.icon-parlay:before {
+    content: ""
+}
+
+.icon-parlay-list:before {
+    content: ""
+}
+
+.icon-parlay-up:before {
+    content: ""
+}
+
+.icon-payment-transfer-log:before {
+    content: ""
+}
+
+.icon-pdf:before {
+    content: ""
+}
+
+.icon-phone:before {
+    content: ""
+}
+
+.icon-phone-outgoing:before {
+    content: ""
+}
+
+.icon-play-film:before {
+    content: ""
+}
+
+.icon-plus:before {
+    content: ""
+}
+
+.icon-poker:before {
+    content: ""
+}
+
+.icon-profile:before {
+    content: ""
+}
+
+.icon-profit-loss:before {
+    content: ""
+}
+
+.icon-recommend:before {
+    content: ""
+}
+
+.icon-refresh:before {
+    content: ""
+}
+
+.icon-search:before {
+    content: ""
+}
+
+.icon-setting:before {
+    content: ""
+}
+
+.icon-shield:before {
+    content: ""
+}
+
+.icon-sign-up:before {
+    content: ""
+}
+
+.icon-skype:before {
+    content: ""
+}
+
+.icon-soccer:before {
+    content: ""
+}
+
+.icon-sphere:before {
+    content: ""
+}
+
+.icon-sport:before {
+    content: ""
+}
+
+.icon-star:before {
+    content: ""
+}
+
+.icon-star-disable:before {
+    content: ""
+}
+
+.icon-star-solid:before {
+    content: ""
+}
+
+.icon-telegram:before {
+    content: ""
+}
+
+.icon-tennis:before {
+    content: ""
+}
+
+.icon-today:before {
+    content: ""
+}
+
+.icon-toggle:before {
+    content: ""
+}
+
+.icon-tomorrow:before {
+    content: ""
+}
+
+.icon-top:before {
+    content: ""
+}
+
+.icon-top-soild:before {
+    content: ""
+}
+
+.icon-transfer:before {
+    content: ""
+}
+
+.icon-transfer-log:before {
+    content: ""
+}
+
+.icon-triangle:before {
+    content: ""
+}
+
+.icon-trophy:before {
+    content: ""
+}
+
+.icon-trophy-disable:before {
+    content: ""
+}
+
+.icon-twitter:before {
+    content: ""
+}
+
+.icon-um:before {
+    content: ""
+}
+
+.icon-user:before {
+    content: ""
+}
+
+.icon-visibility-off:before {
+    content: ""
+}
+
+.icon-visibility-on:before {
+    content: ""
+}
+
+.icon-volume:before {
+    content: ""
+}
+
+.icon-volume-off:before {
+    content: ""
+}
+
+.icon-vs:before {
+    content: ""
+}
+
+.icon-wallet:before {
+    content: ""
+}
+
+.icon-whatsapp:before {
+    content: ""
+}
+
+.icon-whatsapp-line:before {
+    content: ""
+}
+
+.icon-wifi:before {
+    content: ""
+}
+
+.icon-youtube .path1:before {
+    color: #010201;
+    content: ""
+}
+
+.icon-youtube .path2:before {
+    color: #000;
+    content: "";
+    margin-left: -1em
+} */
+/* [class*=" icon-"],
+[class^=icon-] {
+    font-family: icomoon !important;
+    speak: never;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-a-z:before {
+    content: ""
+}
+
+.icon-active-log:before {
+    content: ""
+}
+
+.icon-all:before {
+    content: ""
+}
+
+.icon-arrow-double:before {
+    content: ""
+}
+
+.icon-arrow-down:before {
+    content: ""
+}
+
+.icon-arrow-down-sencodary:before {
+    content: ""
+}
+.icon-arrow-up-sencodary:before {
+    content: ""
+}
+.icon-arrow-left:before {
+    content: ""
+}
+
+.icon-backspace:before {
+    content: ""
+}
+
+.icon-bookmaker .path1:before {
+    color: #386abd;
+    content: ""
+}
+
+.icon-bookmaker .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-calendar:before {
+    content: ""
+}
+
+.icon-cash-out:before {
+    content: ""
+}
+
+.icon-catalog:before {
+    content: ""
+}
+
+.icon-chat:before {
+    content: ""
+}
+
+.icon-check:before {
+    content: ""
+}
+
+.icon-check-circle:before {
+    content: ""
+}
+
+.icon-clock:before {
+    content: ""
+}
+
+.icon-clone:before {
+    content: ""
+}
+
+.icon-close:before {
+    content: ""
+}
+
+.icon-cricket:before {
+    content: ""
+}
+
+.icon-del:before {
+    content: ""
+}
+
+.icon-disregional:before {
+    content: ""
+}
+
+.icon-download:before {
+    content: ""
+}
+
+.icon-edit:before {
+    content: ""
+}
+
+.icon-editing:before {
+    content: ""
+}
+
+.icon-email:before {
+    content: ""
+}
+
+.icon-empty:before {
+    content: ""
+}
+
+.icon-exchange:before {
+    content: ""
+}
+
+.icon-expend:before {
+    content: ""
+}
+
+.icon-facebook:before {
+    content: ""
+}
+
+.icon-fancybet .path1:before {
+    color: #f22a96;
+    content: ""
+}
+
+.icon-fancybet .path2:before {
+    color: #4290a3;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-fancybet .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-fancybet .path4:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-flag-bangladesh .path1:before {
+    color: #006a4d;
+    content: ""
+}
+
+.icon-flag-bangladesh .path2:before {
+    color: #f42a41;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-fullscreen:before {
+    content: ""
+}
+
+.icon-funds:before {
+    content: ""
+}
+
+.icon-game-hall-egame:before {
+    content: ""
+}
+
+.icon-game-hall-fishing:before {
+    content: ""
+}
+
+.icon-game-hall-live:before {
+    content: ""
+}
+
+.icon-game-hall-slot:before {
+    content: ""
+}
+
+.icon-game-hall-sports:before {
+    content: ""
+}
+
+.icon-game-hall-table:before {
+    content: ""
+}
+
+.icon-graph:before {
+    content: ""
+}
+
+.icon-h2h:before {
+    content: ""
+}
+
+.icon-h2h-soild:before {
+    content: ""
+}
+
+.icon-history:before {
+    content: ""
+}
+
+.icon-home:before {
+    content: ""
+}
+
+.icon-in-play .path1:before {
+    color: #52bf04;
+    content: ""
+}
+
+.icon-in-play .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path4:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path5:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path6:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path7:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-in-play .path8:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-info-circle:before {
+    content: ""
+}
+
+.icon-inplay-b:before {
+    content: ""
+}
+
+.icon-instagram:before {
+    content: ""
+}
+
+.icon-latest:before {
+    content: ""
+}
+
+.icon-list:before {
+    content: ""
+}
+
+.icon-live:before {
+    color: #f23b3b;
+    content: ""
+}
+
+.icon-lock:before {
+    content: ""
+}
+
+.icon-login:before {
+    content: ""
+}
+
+.icon-logout:before {
+    content: ""
+}
+
+.icon-menu:before {
+    content: ""
+}
+
+.icon-mic:before {
+    content: ""
+}
+
+.icon-min-max:before {
+    content: ""
+}
+
+.icon-minus:before {
+    content: ""
+}
+
+.icon-notice:before {
+    content: ""
+}
+
+.icon-parlay:before {
+    content: ""
+}
+
+.icon-parlay-list:before {
+    content: ""
+}
+
+.icon-parlay-up:before {
+    content: ""
+}
+
+.icon-payment-transfer-log:before {
+    content: ""
+}
+
+.icon-pdf:before {
+    content: ""
+}
+
+.icon-phone:before {
+    content: ""
+}
+
+.icon-phone-outgoing:before {
+    content: ""
+}
+
+.icon-play-film:before {
+    content: ""
+}
+
+.icon-plus:before {
+    content: ""
+}
+
+.icon-poker:before {
+    content: ""
+}
+
+.icon-profile:before {
+    content: ""
+}
+
+.icon-profit-loss:before {
+    content: ""
+}
+
+.icon-recommend:before {
+    content: ""
+}
+
+.icon-refresh:before {
+    content: ""
+}
+
+.icon-search:before {
+    content: ""
+}
+
+.icon-setting:before {
+    content: ""
+}
+
+.icon-shield:before {
+    content: ""
+}
+
+.icon-sign-up:before {
+    content: ""
+}
+
+.icon-skype:before {
+    content: ""
+}
+
+.icon-soccer:before {
+    content: ""
+}
+
+.icon-sphere:before {
+    content: ""
+}
+
+.icon-sport:before {
+    content: ""
+}
+
+.icon-sportsbook .path1:before {
+    color: #d45f2b;
+    content: ""
+}
+
+.icon-sportsbook .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-sportsbook .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-star:before {
+    content: ""
+}
+
+.icon-star-disable:before {
+    content: ""
+}
+
+.icon-star-solid:before {
+    content: ""
+}
+
+.icon-telegram:before {
+    content: ""
+}
+
+.icon-tennis:before {
+    content: ""
+}
+
+.icon-today:before {
+    content: ""
+}
+
+.icon-toggle:before {
+    content: ""
+}
+
+.icon-tomorrow:before {
+    content: ""
+}
+
+.icon-top:before {
+    content: ""
+}
+
+.icon-top-soild:before {
+    content: ""
+}
+
+.icon-transfer:before {
+    content: ""
+}
+
+.icon-transfer-log:before {
+    content: ""
+}
+
+.icon-triangle:before {
+    content: ""
+}
+
+.icon-trophy:before {
+    content: ""
+}
+
+.icon-trophy-disable:before {
+    content: ""
+}
+
+.icon-twitter:before {
+    content: ""
+}
+
+.icon-um:before {
+    content: ""
+}
+
+.icon-user:before {
+    content: ""
+}
+
+.icon-virtual .path1:before {
+    color: #d15be4;
+    content: ""
+}
+
+.icon-virtual .path2:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path3:before {
+    color: #fff;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path4:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path5:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path6:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path7:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path8:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-virtual .path9:before {
+    color: #d15be4;
+    content: "";
+    margin-left: -1em
+}
+
+.icon-visibility-off:before {
+    content: ""
+}
+
+.icon-visibility-on:before {
+    content: ""
+}
+
+.icon-volume:before {
+    content: ""
+}
+
+.icon-volume-off:before {
+    content: ""
+}
+
+.icon-vs:before {
+    content: ""
+}
+
+.icon-wallet:before {
+    content: ""
+}
+
+.icon-whatsapp:before {
+    content: ""
+}
+
+.icon-whatsapp-line:before {
+    content: ""
+}
+
+.icon-wifi:before {
+    content: ""
+}
+
+.icon-youtube .path1:before {
+    color: #010201;
+    content: ""
+}
+
+.icon-youtube .path2:before {
+    color: #000;
+    content: "";
+    margin-left: -1em
+} */

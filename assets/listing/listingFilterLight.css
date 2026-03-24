@@ -1,0 +1,119 @@
+s-app .s-custom-icon[data-v-c1acd3d8] {
+  background-image: var(--277b974c);
+}
+
+s-app .s-event-type-icon[data-v-c1acd3d8] {
+  color: white;
+}
+
+s-app .s-event-type-icon[data-is-selected=true][data-is-my-pin-mode=false][data-v-c1acd3d8] {
+  color: white;
+}
+
+s-app .s-event-type-context[data-v-64098ea2] {
+   color: white;
+}
+
+s-app .s-event-type-context[data-is-selected=true][data-is-my-pin-mode=false][data-v-64098ea2] {
+    color: white;
+}
+
+s-app .s-menu-active[data-is-selected=true][data-is-my-pin-mode=false][data-v-4901c359] {
+  color: var(--color-main-menu-text-active)
+}
+
+s-app .s-custom-icon[data-v-0727648b] {
+  background-image: var(--0f2db639);
+}
+
+s-app .s-event-count[data-v-0727648b] {
+  background-color: var(--color-main-menu-number-bg);
+  color: var(--color-main-menu-num);
+}
+
+s-app .s-event-count[data-is-selected=true][data-is-my-pin-mode=false][data-v-0727648b] {
+  background-color: var(--color-unread-number-bg);
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+s-app .s-event-count.s-my-fav[data-is-selected=true][data-v-0727648b] {
+  background-color: var(--color-unread-number-bg);
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+s-app .s-chip[data-v-f34fa1c6] {
+  background-image: var(--1b11d2b0);
+}
+
+s-app .s-custom-chip[data-v-f34fa1c6] {
+  background-image: var(--30af444b);
+}
+
+s-app .s-bg-light[data-v-f34fa1c6] {
+  border-radius: 5px;
+  opacity: 1;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.35) 100%);
+}
+
+s-app .s-content-light[data-v-f34fa1c6] {
+  font-weight: bold;
+  background: -webkit-linear-gradient(45deg, rgb(253, 18, 226) 20%, rgb(164, 67, 221), rgb(84, 126, 255) 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #978170;
+}
+
+s-app .s-bg-dark[data-v-f34fa1c6] {
+  border-radius: 5px;
+  opacity: 1;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.100524) 0%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.35) 100%);
+}
+
+s-app .s-content-dark[data-v-f34fa1c6] {
+  font-weight: bold;
+  background: -webkit-linear-gradient(45deg, rgb(184, 0, 212) 0%, rgb(247, 110, 0) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #978170;
+}
+
+s-app .s-custom-icon[data-v-19be382e] {
+  background-image: var(--c5e74cec);
+}
+
+s-app .s-custom-icon[data-v-9190ed79] {
+  background-image: var(--1003903d);
+}
+
+s-app .s-custom-icon[data-v-56a526dc] {
+  background-image: var(--2c7b7fd6);
+}
+
+s-app .tab-indicator[data-v-ce6bad6d] {
+  width: var(--5fb04646);
+  transform: var(--53331f6c) !important;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), width 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+s-app .s-sports-mode-filter[data-v-ce6bad6d] {
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
+    background: #1a1a1a;
+}
+
+s-app .s-sports-eventType-tabs[data-v-ce6bad6d] {
+  grid-template-columns: repeat(6, minmax(0, 16.16vw));
+}
+
+s-app .s-sports-eventType-tabs[data-has-casino-tab=true][data-has-all-event-type-tab=true][data-v-ce6bad6d] {
+  grid-template-columns: repeat(6, minmax(0, 16.16vw));
+}
+
+s-app .s-sports-eventType-tabs[data-has-casino-tab=true][data-has-all-event-type-tab=false][data-v-ce6bad6d] {
+  grid-template-columns: repeat(6, minmax(0, 16.16vw));
+}
+
+s-app .s-sports-eventType-tabs[data-has-casino-tab=false][data-has-all-event-type-tab=true][data-v-ce6bad6d] {
+  grid-template-columns: repeat(6, minmax(0, 16.16vw));
+}
